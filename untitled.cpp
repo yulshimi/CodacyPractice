@@ -10,4 +10,5 @@ int main ()
 void myTest()
 {
 	cout << "Hello World" << endl;
+	cout << "Hello Hello" << endl;
 }
